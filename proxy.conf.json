@@ -1,0 +1,9 @@
+{
+    "/api/*": {
+      "target": "https://thronesapi.com",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    }
+  }
+  
